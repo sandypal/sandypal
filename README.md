@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on custom **WordPress** and **LearnDash** plugin development, LMS reporting dashboards, and headless frontend applications using **Next.js** and **React**.  
 👨‍💻 I work full-time as a freelancer on [**Upwork**](https://www.upwork.com/freelancers/~011b6aa5950808f488), helping clients build scalable, custom, and conversion-focused web solutions.  
-👯 I’m looking to collaborate on full-stack projects, especially those involving **LMS platforms**, **SaaS dashboards**, or **custom WordPress plugins**.  
+👯 I’m looking to collaborate on full-stack projects involving **WordPress**, **Next.js**, or **Node.js**, especially those involving **LMS platforms**, **SaaS dashboards**, or **custom WordPress plugins**.   
 🤝 I’m open to strategic partnerships where I can contribute both development skills and product-thinking.  
 🌱 I’m currently deepening my skills in **backend architecture**, **Node.js**, and **email marketing automation** to build future SaaS products.  
 💬 Ask me about **WordPress**, **LearnDash**, **Next.js**, **React**, plugin architecture, or integrating modern JavaScript frameworks with WordPress.  
